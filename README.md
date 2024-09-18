@@ -120,3 +120,13 @@ The main components of the code are organized as follows:
    ```bash
    coqc OperationalSemantics.v
    coqc Examples.v
+
+## Warning
+
+This project is mostly written in french due to academic requirements.
+
+## Authors 
+
+- [Anastasios Tsiompanidis](https://github.com/AnastasiosTsio)
+- [Alexis Noel](https://github.com/alexisnoeluga)
+- [Noah Kohrs](https://github.com/noahkohrs)
