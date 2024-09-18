@@ -123,7 +123,7 @@ The main components of the code are organized as follows:
 
 ## Warning
 
-This project have been done mostly in french and is not finished.
+This project is mostly written in french due to academic requirements.
 
 ## Authors 
 
